@@ -120,7 +120,7 @@ color: #667085;
     font-family: Inter;
 font-style: normal;
 font-weight: bold;
-font-size: 52px;
+font-size:36px;
 line-height: 63px;
 /* identical to box height */
 
@@ -146,6 +146,7 @@ margin-bottom:82px;
 
 .welcome-text{
     margin-top:100px;
+    
 }
 
 .bookit-btn:nth-child(3){
@@ -247,6 +248,7 @@ color: #FFFFFF;
     }
     .welcome-text h1{
         margin-bottom:0;
+        
     }
     .wrapper-1{
         justify-content:center;
