@@ -242,6 +242,11 @@ color: #FFFFFF;
 @media only screen and (max-width: 568px){
     .welcome-text{
         text-align:center;
+        margin-top:30px;
+        margin-bottom:25px;
+    }
+    .welcome-text h1{
+        margin-bottom:0;
     }
     .wrapper-1{
         justify-content:center;
